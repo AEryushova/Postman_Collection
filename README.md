@@ -7,9 +7,9 @@
 
 
 ## Запуск :
-1. Клонирование репозитория https://github.com/AEryushova/Postman_Collection.git командой _git clone_
+1. Клонирование репозитория https://github.com/AEryushova/Postman_Collection.git командой _git clone_.
 2. Импорт _Main.postman_collection_ и _QA Main.postman_environment_ в Postman.
-3. Запуск тестов через _Run_ :
-   - 
+3. Запуск тестов через _Run_.
+   
 ## Документация :
 - [API Documentation](https://dummyapi.io/docs)
